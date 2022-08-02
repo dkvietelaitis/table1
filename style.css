@@ -1,0 +1,32 @@
+*{
+    font-family: PT Sans;
+}
+table
+{
+    border-collapse: collapse;
+    border: 2px solid rgb(252, 205, 35);
+    margin: 50px auto;
+}
+td, th 
+{
+    border: 2px solid rgb(252, 205, 35);
+    padding: 25px;
+    text-align: left;
+    width: 200px;
+}
+.agenda
+{
+    text-align: center;
+    background: rgb(252, 205, 35);
+}
+.value
+{
+    background: rgb(79, 19, 173);
+    color: white;
+
+}
+.lastname
+{
+    background: rgb(209, 158, 48);
+    text-align: center;
+}
